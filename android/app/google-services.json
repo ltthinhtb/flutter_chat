@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883595457343",
+    "firebase_url": "https://dentalmobile-2ea3a.firebaseio.com",
+    "project_id": "dentalmobile-2ea3a",
+    "storage_bucket": "dentalmobile-2ea3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883595457343:android:935b842df9bd187ad4598a",
+        "android_client_info": {
+          "package_name": "vn.com.ninasoft.vn_dental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883595457343-ci99ielm7kjt6s8c9njti69d2mg3cvl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.ninasoft.vn_dental",
+            "certificate_hash": "b32aab3205c4a86eddc142d428264d18e59d1316"
+          }
+        },
+        {
+          "client_id": "883595457343-kts5g3b9cvpttbpfq2vb5i2gp7jqoqo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiAanwU5pqwY33Edl8FABDYgtj8W_QMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883595457343-kts5g3b9cvpttbpfq2vb5i2gp7jqoqo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
